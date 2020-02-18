@@ -1,0 +1,23 @@
+body{
+	margin: 40;
+	padding: 50;
+	background: #34495e;
+}
+embed{
+	width: 50%;
+	margin: 1px auto;
+	display: block;
+}
+img{
+	width: 50%;
+	margin: 1px auto;
+	display: block;
+}
+}
+h1{
+	text-align: left;
+	color: white;
+}
+h2{
+	text-align: center;
+}
